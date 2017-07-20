@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "danrigsby.github.io",
+  "description": "Danrigsby site",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Dan Rigsby <danrigsby@gmail.com>",
   "dependencies": {
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.1",
